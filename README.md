@@ -22,3 +22,6 @@ OC commands
 DELETE - oc new-app labels everything that it creates, by default with app=<generated name>. You can use -l to customise the label(s) added to create resources:
     oc delete all -l app=roger600-nodejs-test
 
+Links
+*****
+- OC CLI -> https://docs.openshift.com/online/cli_reference/basic_cli_operations.html
